@@ -1226,7 +1226,7 @@ ul
 style='font-size:20.0pt;line-height:107%'>LAB Book partners up with Practical
 Tableau Book:<o:p></o:p></span></u></b></p>
 
-<p class=MsoNormal><span style='font-size:20.0pt;line-height:107%'>Part 1 – <o:p></o:p></span></p>
+<p class=MsoNormal><span style='font-size:20.0pt;line-height:107%'>Part 1 Â– <o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:20.0pt;line-height:107%'>Chapter 8 - Exercise
 1 (Bar Chart Options) - 10 Minutes<o:p></o:p></span></p>
@@ -1235,7 +1235,7 @@ Tableau Book:<o:p></o:p></span></u></b></p>
 style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>1.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></b><![endif]><b
-style='mso-bidi-font-weight:normal'><span style='mso-spacerun:yes'> </span>Use
+style='mso-bidi-font-weight:normal'><span style='mso-spacerun:yes'>Â </span>Use
 Excel Sample Superstore, ORDERS table:<o:p></o:p></b></p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
@@ -1262,7 +1262,7 @@ Excel Sample Superstore, ORDERS table:<o:p></o:p></b></p>
  style='width:468pt;height:282.75pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="New_Tableau_2_LabBook_files/image001.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=624 height=377
-src="New_Tableau_2_LabBook_files/image002.jpg" v:shapes="Picture_x0020_1"><![endif]></span></p>
+src="https://github.com/ONLC-Classes/ONLC-Classes-ONLC-Classes-XTBI10---Tableau-Desktop-Level-1/blob/master/images/Chapter8_Ex1.png"><![endif]></span></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
@@ -1271,10 +1271,10 @@ style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>2.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></b><![endif]><b
 style='mso-bidi-font-weight:normal'><span
-style='mso-spacerun:yes'> </span>Rename Sheet 1 to Bar Chart Options (which
-will also change the title of the page to “Bar Chart Options” – Additionally:
-right click the sheet tab and choose “color” off the menu.<span
-style='mso-spacerun:yes'>  </span>(*note: these colors are your preference, but
+style='mso-spacerun:yes'>Â </span>Rename Sheet 1 to Bar Chart Options (which
+will also change the title of the page to Â“Bar Chart OptionsÂ” Â– Additionally:
+right click the sheet tab and choose Â“colorÂ” off the menu.<span
+style='mso-spacerun:yes'>Â  </span>(*note: these colors are your preference, but
 back at work, you may consider using them to differentiate departments, or
 sheets vs. dashboards, or projects, etc.)<o:p></o:p></b></p>
 
@@ -1290,8 +1290,8 @@ style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>3.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></b><![endif]><b
 style='mso-bidi-font-weight:normal'>SAVE Entire Workbook to your desktop.<span
-style='mso-spacerun:yes'>  </span>Name the File:<span
-style='mso-spacerun:yes'>  </span>“PartOneChartOptions.twbx” – you will use
+style='mso-spacerun:yes'>Â  </span>Name the File:<span
+style='mso-spacerun:yes'>Â  </span>Â“PartOneChartOptions.twbxÂ” Â– you will use
 this workbook throughout Part One of Practical Tableau Book.<o:p></o:p></b></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
@@ -1300,31 +1300,31 @@ this workbook throughout Part One of Practical Tableau Book.<o:p></o:p></b></p>
 style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>4.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></b><![endif]><b
-style='mso-bidi-font-weight:normal'><span style='mso-spacerun:yes'> </span>Once
+style='mso-bidi-font-weight:normal'><span style='mso-spacerun:yes'>Â </span>Once
 you have the steps above opened, you will try each of the FIVE bar chart
 options discussed in your book on pages 35 and 36. Please follow the steps
 below to complete these five options:<o:p></o:p></b></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Option 1</b> – Double
-Click the SALES Measure.<span style='mso-spacerun:yes'>  </span>Result: plain
-blue bar chart – click the undo button</p>
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Option 1</b> Â– Double
+Click the SALES Measure.<span style='mso-spacerun:yes'>Â  </span>Result: plain
+blue bar chart Â– click the undo button</p>
 
 <p class=MsoNormal>****</p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Option 2</b> – Left
-Drag your SALES Measure to the row –Result: same blue bar chart as above –
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Option 2</b> Â– Left
+Drag your SALES Measure to the row Â–Result: same blue bar chart as above Â–
 click the undo button</p>
 
 <p class=MsoNormal>****</p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Option 3 –</b> Click
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Option 3 Â–</b> Click
 ONCE on the SALES Measure, Go to the SHOW ME Box and select the bar chart (3<sup>rd</sup>
-row, 1<sup>st</sup> column) – Notice the bar chart by default is horizontal. <span
-style='mso-spacerun:yes'> </span>Also Note that the Show Me Wizard changed the
-position of your SALES Field.<span style='mso-spacerun:yes'>  </span>It is now
+row, 1<sup>st</sup> column) Â– Notice the bar chart by default is horizontal. <span
+style='mso-spacerun:yes'>Â </span>Also Note that the Show Me Wizard changed the
+position of your SALES Field.<span style='mso-spacerun:yes'>Â  </span>It is now
 located in the Column Shelf.</p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'> </span>Find the “SWAP” tool
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â </span>Find the Â“SWAPÂ” tool
 on the toolbar (or press CTRL + W) </p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
@@ -1342,7 +1342,7 @@ moving back and forth between Column and Row Shelves.</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>CLEAR THE WORKSHEET: (Find “CLEAR” tool and click or press
+<p class=MsoNormal>CLEAR THE WORKSHEET: (Find Â“CLEARÂ” tool and click or press
 ALT_SHIFT_BACKSPACE) </p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
@@ -1356,7 +1356,7 @@ src="New_Tableau_2_LabBook_files/image007.jpg" v:shapes="Picture_x0020_6"><![end
 
 <p class=MsoNormal>****</p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Option 4 – </b>Change
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Option 4 Â– </b>Change
 to a bar chart using the MARKS SHELF:<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></p>
 
 <p class=MsoNormal>Drag YEAR/ORDER Date Dimension to the Column Shelf, Drag
@@ -1370,8 +1370,8 @@ SALES Measure to Rows Shelf (see picture on Page 36 of your book).</p>
  <v:imagedata src="New_Tableau_2_LabBook_files/image008.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=207 height=200
 src="New_Tableau_2_LabBook_files/image008.png" v:shapes="Picture_x0020_7"><![endif]></span>(Notice
-that when you use the MARKS shelf, as opposed to the “SHOW ME” Wizard, your
-SALES and ORDER DATE field remain in place.<span style='mso-spacerun:yes'> 
+that when you use the MARKS shelf, as opposed to the Â“SHOW MEÂ” Wizard, your
+SALES and ORDER DATE field remain in place.<span style='mso-spacerun:yes'>Â 
 </span>As you learn more about Tableau, you will rely less and less on the
 Wizard and learn to use the MARKS Shelf to create your charts)</p>
 
@@ -1379,11 +1379,11 @@ Wizard and learn to use the MARKS Shelf to create your charts)</p>
 
 <p class=MsoNormal>***</p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Option 5</b> – RIGHT
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Option 5</b> Â– RIGHT
 Click and Drag the SALES Measure to the ROWS Shelf. (Result: See picture on
-Page 37 of your book.) – This result gives an option to choose an
-aggregate.<span style='mso-spacerun:yes'>  </span>Choose MEDIAN(SALES), Choice
-# 2 from List.<span style='mso-spacerun:yes'>  </span>A right click in Tableau
+Page 37 of your book.) Â– This result gives an option to choose an
+aggregate.<span style='mso-spacerun:yes'>Â  </span>Choose MEDIAN(SALES), Choice
+# 2 from List.<span style='mso-spacerun:yes'>Â  </span>A right click in Tableau
 can offer quicker options than going through many menus to get the desired
 result.</p>
 
@@ -1415,7 +1415,7 @@ Shelf).</p>
 
 <p class=MsoNormal>Next, Click on the Analytics TAB</p>
 
-<p class=MsoNormal>Under “Custom”, Choose “Reference Line” – then drag and drop
+<p class=MsoNormal>Under Â“CustomÂ”, Choose Â“Reference LineÂ” Â– then drag and drop
 on top of TABLE</p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
@@ -1426,7 +1426,7 @@ on top of TABLE</p>
 src="New_Tableau_2_LabBook_files/image010.jpg" v:shapes="Picture_x0020_8"><![endif]></span></p>
 
 <p class=MsoNormal>You will see the screen below.<span
-style='mso-spacerun:yes'>  </span>Pick “Median” from the computation dropdown
+style='mso-spacerun:yes'>Â  </span>Pick Â“MedianÂ” from the computation dropdown
 AND choose a line color from the Line Dropdown:</p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
@@ -1469,7 +1469,7 @@ Exercise 1 (Line Graphs/Axes/Dates) - 10 Minutes<o:p></o:p></span></p>
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Add a new sheet to your workbook. Name the Sheet
-“Line Graphs” and additionally, change the color if desired.</p>
+Â“Line GraphsÂ” and additionally, change the color if desired.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo5'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
@@ -1481,7 +1481,7 @@ SHELF)</p>
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>RIGHT CLICK and DRAG the Order Date Field into
-the COLUMN SHELF.<span style='mso-spacerun:yes'>  </span>From the pop up menu,
+the COLUMN SHELF.<span style='mso-spacerun:yes'>Â  </span>From the pop up menu,
 choose the GREEN (Continuous) - MONTH(Order Date) (4<sup>th</sup> from bottom),
 off the list.</p>
 
@@ -1496,7 +1496,7 @@ auto;text-indent:-.25in;mso-list:l5 level2 lfo5'><![if !supportLists]><span
 style='font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
 Wingdings'><span style='mso-list:Ignore'>v<span style='font:7.0pt "Times New Roman"'>&nbsp;
 </span></span></span><![endif]>Notice that the SORT tools are not available for
-the Order Date Field.<span style='mso-spacerun:yes'>  </span>Continuous fields
+the Order Date Field.<span style='mso-spacerun:yes'>Â  </span>Continuous fields
 cannot be sorted.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:1.0in;mso-add-space:
@@ -1516,14 +1516,14 @@ result.</p>
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo5'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Drag the “Ship Mode” dimension to the Row. </p>
+</span></span></span><![endif]>Drag the Â“Ship ModeÂ” dimension to the Row. </p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:1.0in;mso-add-space:
 auto;text-indent:-.25in;mso-list:l5 level2 lfo5'><![if !supportLists]><span
 style='font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
 Wingdings'><span style='mso-list:Ignore'>v<span style='font:7.0pt "Times New Roman"'>&nbsp;
 </span></span></span><![endif]>Notice that the pill only goes in FRONT of the
-Sales Measure. You cannot move it afterward.<span style='mso-spacerun:yes'> 
+Sales Measure. You cannot move it afterward.<span style='mso-spacerun:yes'>Â 
 </span>This is because it is a SLICER and the SLICE happens before the SALES
 Measure.</p>
 
@@ -1532,15 +1532,15 @@ auto;text-indent:-.25in;mso-list:l5 level2 lfo5'><![if !supportLists]><span
 style='font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
 Wingdings'><span style='mso-list:Ignore'>v<span style='font:7.0pt "Times New Roman"'>&nbsp;
 </span></span></span><![endif]>Notice that each Axis has the same range.<span
-style='mso-spacerun:yes'>  </span>If we want to reflect accurately, we need to
+style='mso-spacerun:yes'>Â  </span>If we want to reflect accurately, we need to
 change this.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo5'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Right click any SALES axis field (left side of
-view), and choose “Edit Axis”.<span style='mso-spacerun:yes'>  </span>Under
-Range, choose “Independent Axis Ranges for each row or Column”</p>
+view), and choose Â“Edit AxisÂ”.<span style='mso-spacerun:yes'>Â  </span>Under
+Range, choose Â“Independent Axis Ranges for each row or ColumnÂ”</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:1.0in;mso-add-space:
 auto;text-indent:-.25in;mso-list:l5 level2 lfo5'><![if !supportLists]><span
@@ -1551,7 +1551,7 @@ Wingdings'><span style='mso-list:Ignore'>v<span style='font:7.0pt "Times New Rom
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo5'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Go to the GREEN – ORDER DATE pill and click the
+</span></span></span><![endif]>Go to the GREEN Â– ORDER DATE pill and click the
 plus sign twice to see how the DATE HEIRACHY works. Also, you can DRILL UP by
 clicking the plus signs again, to go backwards.</p>
 
@@ -1559,8 +1559,8 @@ clicking the plus signs again, to go backwards.</p>
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Next, remove the GREEN ORDER DATE PILL from the
-COLUMN Shelf (RIGHT CLICK a white part of the column shelf and choose “CLEAR
-SHELF”.</p>
+COLUMN Shelf (RIGHT CLICK a white part of the column shelf and choose Â“CLEAR
+SHELFÂ”.</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
@@ -1573,11 +1573,11 @@ style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>9.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>LEFT DRAG the ORDER DATE field to the COLUMN
 SHELF. Leave it blue (discrete). Notice it CAN be sorted.<span
-style='mso-spacerun:yes'>  </span>We did not filter this for months, so note
+style='mso-spacerun:yes'>Â  </span>We did not filter this for months, so note
 the plus sign starts on the YEAR option. . You can click the hierarchy plus
-signs all the way through to the DAY.<span style='mso-spacerun:yes'> 
+signs all the way through to the DAY.<span style='mso-spacerun:yes'>Â 
 </span>Then, you can click the plus signs and drill back down. <span
-style='mso-spacerun:yes'> </span>The main difference is that you can SORT
+style='mso-spacerun:yes'>Â </span>The main difference is that you can SORT
 Discreet fields. </p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
@@ -1595,7 +1595,7 @@ src="New_Tableau_2_LabBook_files/image016.jpg" v:shapes="Picture_x0020_11"><![en
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>10.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
 </span></span></span><![endif]><span
-style='mso-spacerun:yes'> </span>Additionally, feel free to use plus signs and
+style='mso-spacerun:yes'>Â </span>Additionally, feel free to use plus signs and
 sort tools to practice with DATES and HEIRARCHIES.</p>
 
 <p class=MsoNormal style='margin-left:.25in'><o:p>&nbsp;</o:p></p>
@@ -1615,8 +1615,8 @@ of Detail and Scatters) - 10 Minutes<o:p></o:p></span></p>
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='mso-spacerun:yes'> </span>Get a new
-worksheet, name it “Level of Detail” and color if desired.</p>
+</span></span></span><![endif]><span style='mso-spacerun:yes'>Â </span>Get a new
+worksheet, name it Â“Level of DetailÂ” and color if desired.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l0 level1 lfo6'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
