@@ -6,8 +6,7 @@ Chapter 8 - Exercise 1 (Bar Chart Options) - 10 Minutes
 
 1.  **Use Excel Sample Superstore, ORDERS table:**
 
-![](.//media/image1.png){width="9.803451443569553in"
-height="5.927910104986877in"}
+![](.//media/image1.png)
 
 2.  **Rename Sheet 1 to Bar Chart Options (which will also change the
     title of the page to "Bar Chart Options" -- Additionally: right
