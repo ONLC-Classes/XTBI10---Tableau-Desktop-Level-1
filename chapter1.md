@@ -6,7 +6,8 @@ Chapter 8 - Exercise 1 (Bar Chart Options) - 10 Minutes
 
 1.  **Use Excel Sample Superstore, ORDERS table:**
 
-![](media/image1.png){width="6.5in" height="3.9305555555555554in"}
+![](./images/media/image1.png){width="6.5in"
+height="3.9305555555555554in"}
 
 2.  **Rename Sheet 1 to Bar Chart Options (which will also change the
     title of the page to "Bar Chart Options" -- Additionally: right
@@ -15,7 +16,7 @@ Chapter 8 - Exercise 1 (Bar Chart Options) - 10 Minutes
     them to differentiate departments, or sheets vs. dashboards, or
     projects, etc.)**
 
-![](media/image2.png){width="4.1427504374453195in"
+![](./images/media/image2.png){width="4.1427504374453195in"
 height="1.5208333333333333in"}
 
 3.  **SAVE Entire Workbook to your desktop. Name the File:
@@ -44,7 +45,8 @@ Column Shelf.
 
 Find the "SWAP" tool on the toolbar (or press CTRL + W)
 
-![](media/image3.png){width="7.5in" height="1.2916666666666667in"}
+![](./images/media/image3.png){width="7.5in"
+height="1.2916666666666667in"}
 
 Additionally: Click the swap tool again to watch it toggle back and
 forth between horizontal and vertical. (Notice your SALES measure moving
@@ -53,7 +55,7 @@ back and forth between Column and Row Shelves.
 CLEAR THE WORKSHEET: (Find "CLEAR" tool and click or press
 ALT\_SHIFT\_BACKSPACE)
 
-![](media/image4.png){width="7.5in" height="0.88125in"}
+![](./images/media/image4.png){width="7.5in" height="0.88125in"}
 
 \*\*\*\*
 
@@ -64,7 +66,7 @@ to Rows Shelf (see picture on Page 36 of your book).
 
 Go to the MARKS Shelf and Choose BAR CHART from the options:
 
-![](media/image5.png){width="2.156550743657043in"
+![](./images/media/image5.png){width="2.156550743657043in"
 height="2.0836242344706912in"}(Notice that when you use the MARKS shelf,
 as opposed to the "SHOW ME" Wizard, your SALES and ORDER DATE field
 remain in place. As you learn more about Tableau, you will rely less and
@@ -93,20 +95,21 @@ Next, Click on the Analytics TAB
 Under "Custom", Choose "Reference Line" -- then drag and drop on top of
 TABLE
 
-![](media/image6.png){width="4.302083333333333in"
+![](./images/media/image6.png){width="4.302083333333333in"
 height="1.8387423447069116in"}
 
 You will see the screen below. Pick "Median" from the computation
 dropdown AND choose a line color from the Line Dropdown:
 
-![](media/image7.png){width="4.28125in" height="2.424058398950131in"}
+![](./images/media/image7.png){width="4.28125in"
+height="2.424058398950131in"}
 
 Repeat these actions twice more, once to depict MINIMUM and once to
 depict MAXIMUM:
 
 Your final result should look like this:
 
-![](media/image8.png){width="5.208333333333333in"
+![](./images/media/image8.png){width="5.208333333333333in"
 height="3.08834864391951in"}
 
 SAVE YOUR WORKBOOK
@@ -161,7 +164,8 @@ Chapter 9 - Exercise 1 (Line Graphs/Axes/Dates) - 10 Minutes
     you can click the plus signs and drill back down. The main
     difference is that you can SORT Discreet fields.
 
-![](media/image9.png){width="7.5in" height="1.3430555555555554in"}
+![](./images/media/image9.png){width="7.5in"
+height="1.3430555555555554in"}
 
 10. Additionally, feel free to use plus signs and sort tools to practice
     with DATES and HEIRARCHIES.
@@ -174,4 +178,4 @@ Chapter 9 - Exercise 1 (Line Graphs/Axes/Dates) - 10 Minutes
 
 1.  Get a new worksheet, name it "Level of Detail" and color if desired.
 
-2.
+2.  
