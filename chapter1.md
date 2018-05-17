@@ -1,5 +1,5 @@
 
-**LAB Book partners up with Practical Tableau Book:{.underline}**
+**LAB Book partners up with Practical Tableau Book:**
 
 Part 1 --
 
