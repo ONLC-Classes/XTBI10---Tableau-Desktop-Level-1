@@ -1,4 +1,5 @@
-**[LAB Book partners up with Practical Tableau Book:]{.underline}**
+
+**LAB Book partners up with Practical Tableau Book:{.underline}**
 
 Part 1 --
 
