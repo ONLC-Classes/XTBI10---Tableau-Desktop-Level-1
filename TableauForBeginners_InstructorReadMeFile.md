@@ -23,8 +23,7 @@ computers at one time!)
     b.  Run Tableau Desktop installer located in the Downloads folder
         for each student.
 
-![](.//media/image1.png){width="6.3114468503937005in"
-height="3.4814107611548555in"}
+![](.//media/image1.png)
 
 c.  Command path(example):
     **C:\\users\\student\\downloads\\TableauDesktop-64bit-2018-1-0.exe**
