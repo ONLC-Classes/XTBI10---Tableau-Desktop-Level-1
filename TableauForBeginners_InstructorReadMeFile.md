@@ -33,41 +33,35 @@ c.  Command path(example):
 
 2.  Choose **Run** command button and select All.
 
-3.  ![](.//media/image2.png){width="3.0865113735783027in"
-    height="3.6033562992125985in"}
+3.  ![](.//media/image2.png)
 
 4.  Tableau Installation will begin on all selected student
     workstations. Remote into each workstation and choose Install.
 
-![](.//media/image3.png){width="4.253952318460192in"
-height="3.4988571741032373in"}
+![](.//media/image3.png)
 
 5.  Once installer completes, **Tableau Registration** form appears.
 
-![](.//media/image4.png){width="2.605784120734908in"
-height="3.6645833333333333in"}
-
+![](.//media/image4.png)
 1.  CANCEL/Close out of this registration and return to the Desktop.
 
 2.  Restart **Tableau Desktop** application from the Desktop icon and
     the **Tableau Registration** form re-appears.
 
-![](.//media/image5.png){width="0.9061362642169729in"
-height="1.0207053805774278in"}
+![](.//media/image5.png)
 
 a.  **Notice** how the registration form is [now filled in with generic
     data from Tableau]{.underline}! All you need to supply is a series
     of numbers for a phone \#. (Make it up)
 
   ------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------
-  ![](.//media/image6.png){width="3.365343394575678in" height="4.623340988626421in"}   ![](.//media/image7.png){width="3.289005905511811in" height="1.0618055555555554in"}
+  ![](.//media/image6.png)   ![](.//media/image7.png)
   ------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------
 
 3.  Click **Start Trial Now**...and you are done! Tableau Desktop is now
     fully functional for 14-days and ready for your class.
 
-![](.//media/image8.png){width="6.145833333333333in"
-height="0.49996609798775155in"}
+![](.//media/image8.png)
 
 **Files for Class:**
 
@@ -90,8 +84,7 @@ DESKTOP ACCORDING TO THE NAME OF THE COURSE:**
 
 **Tableau Data Visual Analytics**
 
-![](.//media/image8.png){width="6.145833333333333in"
-height="0.49996609798775155in"}
+![](.//media/image8.png)
 
 **CHAPTER BY CHAPTER**
 
@@ -121,8 +114,7 @@ After Class: Students Can Download Files from our GitHub Repository:
 
 3.  Save to a local file
 
-![](.//media/image8.png){width="6.145833333333333in"
-height="0.49996609798775155in"}
+![](.//media/image8.png)
 
 In every chapter, the students are given a "URL" to download the
 workbooks. Instead, they can use Page 11 to get them all. In class of
@@ -130,8 +122,7 @@ course, we have already downloaded all the files. If you wish to, you
 can take the students to any URL in the book to demo them, but for sake
 of time, we suggest the just use the files in the folders provided.
 
-![](.//media/image8.png){width="6.145833333333333in"
-height="0.49996609798775155in"}
+![](.//media/image8.png)
 
 Set the expectations on Day 1 during introductions. There are LOADS of
 "Hands On" Exercises in this class. Gauge your audience and determine
@@ -139,16 +130,14 @@ how many you will let people do on their own vs. what you want to do
 with them. On Day 2, the students should have as much "Hands On" as
 possible.
 
-![](.//media/image8.png){width="6.145833333333333in"
-height="0.49996609798775155in"}
+![](.//media/image8.png)
 
 Chapter 13 is on Tableau Server. Please just go through it quickly and
 explain that we offer a Tableau Server class if anyone is interested.
 The students should be "full" at this point and will appreciate you
 skimming through it!
 
-![](.//media/image8.png){width="13.867925415573053in"
-height="0.49930555555555556in"}
+![](.//media/image8.png)
 
 **Day One -- Chapters 1-6 (approximately):**
 
@@ -435,8 +424,7 @@ Depending on your audience, you can choose to do these labs with the
 students or let them loose. This lab is awesome and simple for the
 students! A great way for them to end Day 1
 
-![](.//media/image8.png){width="13.867925415573053in"
-height="0.49930555555555556in"}
+![](.//media/image8.png)
 
 **Day Two -- Chapters 7-13 **
 
