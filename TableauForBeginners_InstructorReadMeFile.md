@@ -107,7 +107,7 @@ NEW workbook or they are copying previous workbooks and "Saving as".
 After Class: Students Can Download Files from our GitHub Repository:
 
 1.  Go to:
-    <https://github.com/ONLC-Classes/ONLC-Classes-ONLC-Classes-XTBI10---Tableau-Desktop-Level-1>
+    <https://github.com/ONLC-Classes/XTBI10---Tableau-Desktop-Level-1>
 
 2.  Click the Green "Clone or Download" button
 
