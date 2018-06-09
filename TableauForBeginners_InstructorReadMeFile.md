@@ -407,7 +407,7 @@ the one on page 101. Students may have to choose the "bar" chart on Show
 Me (depending on how they got the fields into the view -- double click
 vs. drag, right drag, etc.)
 
-**Parameters**
+**PARAMETERS**
 
 There are NO files up on the URL for this portion:
 <http://tabsoft.co/2oZKhl6>
