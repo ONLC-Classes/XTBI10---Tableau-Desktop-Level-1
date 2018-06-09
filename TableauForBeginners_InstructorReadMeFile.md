@@ -144,8 +144,8 @@ skimming through it!
 book, even though it is small. Approximate lab and lecture/demo times
 are below. In order to finish, be sure to go through each set of labs.
 
-**Chapter 1 -- INTRO** (short and sweet, knowing you will dive into
-details throughout book)
+**Chapter 1 -- INTRO (short and sweet, knowing you will dive into
+details throughout book)**
 
 **Approximate time to take: 10 minutes.**
 
@@ -157,8 +157,8 @@ gauged by the Instructor, depending on who is in the class.
 This chapter should be breezed through, telling the students that
 details will follow in later chapters.
 
-**Chapter 2 -- Connecting to Data** (excellent and includes several new
-options)
+**Chapter 2 -- Connecting to Data (excellent and includes several new
+options)**
 
 **Approximate time to take: 30-40 minutes**
 
@@ -313,7 +313,7 @@ custom SQL Syntax!!**
 
 **LUNCH**
 
-**Chapter 4 -- Calculations** (book is great and emphasizes aggregates)
+**Chapter 4 -- Calculations (book is great and emphasizes aggregates)**
 
 The finished VISUALIZATION files for this lab have files in them, also,
 they are located at this URL: <http://tabsoft.co/2qmpTiE>
@@ -342,7 +342,7 @@ off the view. We do not have County and State... ignore this.
 **Glitch** -- Page 82, Step \#5, Drag "Profit by Order ID" to Column to get
 view on page 83.
 
-**Chapter 5 -- More Calculations** (Logical, Strings, Numbers and Dates)
+**Chapter 5 -- More Calculations (Logical, Strings, Numbers and Dates)**
 
 The finished VISUALIZATION files for this lab have files in them, also,
 they are located at this URL: <http://tabsoft.co/2qmpTiE>
@@ -547,7 +547,7 @@ only. But, you can read through and show the students that IF they get
 some unknown locations, there is a wizard in Tableau that will try to
 fix these items.
 
-**Chapter 11** -- Visualizations (all types of charts -- FUN!)
+**Chapter 11 -- Visualizations (all types of charts -- FUN!)**
 
 The finished VISUALIZATION files for this lab have files in them, also,
 they are located at this URL: <http://tabsoft.co/2oRLmQC> (all the files
