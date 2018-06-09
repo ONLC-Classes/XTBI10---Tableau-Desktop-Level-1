@@ -336,7 +336,7 @@ keep consistent with the book, they can add it.
 **Glitch** -- On Page 72, step \#5, they have you place Running Sum of
 Profit (new calc) on Table. Place on top of PROFIT COLUMN
 
-**Glitch:** -- Page 81, Top of page, has students "drag out" County and State
+**Glitch** -- Page 81, Top of page, has students "drag out" County and State
 off the view. We do not have County and State... ignore this.
 
 **Glitch** -- Page 82, Step \#5, Drag "Profit by Order ID" to Column to get
