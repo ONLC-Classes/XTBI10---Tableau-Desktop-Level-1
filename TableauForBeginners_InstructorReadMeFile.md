@@ -547,7 +547,7 @@ only. But, you can read through and show the students that IF they get
 some unknown locations, there is a wizard in Tableau that will try to
 fix these items.
 
-**Chapter 11 -- Visualizations (all types of charts -- FUN!)**
+**Chapter 11** -- Visualizations (all types of charts -- FUN!)
 
 The finished VISUALIZATION files for this lab have files in them, also,
 they are located at this URL: <http://tabsoft.co/2oRLmQC> (all the files
