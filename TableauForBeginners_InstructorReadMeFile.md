@@ -382,7 +382,7 @@ ZEROS
 **Page 92 should look familiar. We created this exact function in a
 previous Tableau Class.**
 
-**Chapter 6 -- Filters and Parameters **
+**Chapter 6 -- Filters and Parameters**
 
 **FILTERS**
 
