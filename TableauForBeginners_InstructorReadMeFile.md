@@ -3,7 +3,7 @@ Level 1 - Introduction**
 
 **\*\*\*Please note. Tableau Desktop Levels 1, 2, 3, and the Data
 Visualization classes are all taught with a FREE 14 Day Trial of Tableau
-Desktop which needs to installed before class begins. **
+Desktop which needs to installed before class begins.**
 
 **John Farnum has graciously contributed the instructions to do a quick
 install on the student's computers. After these directions, please see
@@ -77,7 +77,7 @@ DESKTOP ACCORDING TO THE NAME OF THE COURSE:**
 
 **Tableau Desktop Level 1**
 
-**Tableau Desktop Level 2\]**
+**Tableau Desktop Level 2**
 
 **Tableau Desktop Level 3**
 
@@ -140,13 +140,12 @@ skimming through it!
 
 **Day One -- Chapters 1-6 (approximately):**
 
-**\*\*Before you begin -- There is a great deal of material in this
+**\*\*Before you begin** -- There is a great deal of material in this
 book, even though it is small. Approximate lab and lecture/demo times
 are below. In order to finish, be sure to go through each set of labs.
-**
 
-**Chapter 1 -- INTRO (short and sweet, knowing you will dive into
-details throughout book)**
+**Chapter 1 -- INTRO** (short and sweet, knowing you will dive into
+details throughout book)
 
 **Approximate time to take: 10 minutes.**
 
@@ -158,14 +157,14 @@ gauged by the Instructor, depending on who is in the class.
 This chapter should be breezed through, telling the students that
 details will follow in later chapters.
 
-**Chapter 2 -- Connecting to Data (excellent and includes several new
-options)**
+**Chapter 2 -- Connecting to Data** (excellent and includes several new
+options)
 
-**Approximate time to take: 30-40 minutes. **
+**Approximate time to take: 30-40 minutes**
 
-**Discussion and Demo 10 minutes, **
+**Discussion and Demo 10 minutes**
 
-**Lab Exercises 10-20 Minutes.**
+**Lab Exercises 10-20 Minutes**
 
 The finished samples are ONLINE at: They have a sample workbook already
 done. You can see the sample "done" files here:
@@ -201,7 +200,7 @@ way by toggling it back and forth.
 This will allow you to go over all the items on pages 27-32 -- 10
 minutes
 
-**Page 33 -- Using Visualizations to Answer Business Questions **
+**Page 33 -- Using Visualizations to Answer Business Questions**
 
 They have a sample workbook already done. It is located here :
 <http://tabsoft.co/2ppD2Xf> - TIMESAVER: Show them the picture at the
@@ -222,18 +221,18 @@ them to build with you page 26)
 
 Then, the lab exercises go from pages 33-40. See below for details:
 
-**Glitch:** Page 33 -- have the students **DRAG** the fields, not double
+**Glitch** -- Page 33 -- have the students **DRAG** the fields, not double
 click. They want the chart on page 33 to match the directions.
 
-**Glitch:** Page 37 -- The Show me box shows everything BUT the
+**Glitch** -- Page 37 -- The Show me box shows everything BUT the
 Highlighted Table. Just tell them to play with the choices the Show Me
 gave them.
 
-**Page 33 -- Drill Downs Exercise -- works as expected**
+**Page 33 -- Drill Downs Exercise** -- works as expected
 
-**Page 38 - Analytics Pane -- **
+**Page 38 - Analytics Pane**
 
-Glitch: Page 39 doesn't tell them what to name the sheet. They can call
+**Glitch** -- Page 39 doesn't tell them what to name the sheet. They can call
 it "Analytics". All else works as expected.
 
 **Chapter 3 - Transforming Data (easier ways for students to customize
@@ -242,7 +241,7 @@ data they have in Tableau)**
 The finished VISUALIZATION files for this lab are empty, even though
 they give you the URL: <http://tabsoft.co/2pQO4WE>
 
-**Estimated Timing: Lecture, Demos: 20-30 minutes. **
+**Estimated Timing: Lecture, Demos: 20-30 minutes.**
 
 **Exercises 30-45 minutes depending on audience.**
 
@@ -260,26 +259,26 @@ and the students will enjoy them.
 
 **Exercises:**
 
-**Pages 45 --61 -- Before you let the students loose on these pages, you
+**Pages 45-61 -- Before you let the students loose on these pages, you
 should teach and demo everything on them quickly. Then let them go. They
 will enjoy the labs and learn A LOT from this easy but helpful set of
-exercises. -- **
+exercises. --**
 
 **\*\*It is best to have them start in one workbook (the first being
 "Data Transformation" and have them do all the exercises in this same
 workbook, adding worksheets and data sources as needed. The reason is
-that the only files they have in the workbook file are done already. **
+that the only files they have in the workbook file are done already.**
 
 **Transforming data in the Sample-Superstore data source -- The students
 will create two hierarchies (one regarding "location" and one regarding
 "Products". They also learn how to create a folder and aliases to
 customize their "Data Pane"**
 
-**Glitch --** Page 46 -- they tell the students how to make a folder and
+**Glitch** -- Page 46 -- They tell the students how to make a folder and
 what should be in it, but students will need to drag the Customer Name
 field into the new folder.
 
-**Glitch** -- Page 47, add the words "click Extract" after the last
+**Glitch** -- Page 47 -- Add the words "click Extract" after the last
 direction on Step \#8. Also the lab tells the students to look in data
 source folder for their new .tde. This will be in the same location they
 saved their last datasource.
@@ -302,24 +301,24 @@ you pivoted those fields. It is best to open the workbook called
 this file however, the work will be done for them already in this small
 exercise. So, they may want to continue on with previous lab.
 
-**Glitch - Pages 56-59 -- Joins -- if they continue in same workbook,
+**Glitch** -- Pages 56-59 -- Joins -- if they continue in same workbook,
 they will have to "ADD" another data source here (which they have
 previously learned). If they open the one called "Joins", they will get
 a message that asks if it is okay to open because joins are present. It
 is best for them to use same workbook they started with (as advised
-above).**
+above).
 
 **Pages 60-61 -- Work as expected and it's so exciting we get to offer
 custom SQL Syntax!!**
 
 **LUNCH**
 
-**Chapter 4 -- Calculations (book is great and emphasizes aggregates)**
+**Chapter 4 -- Calculations** (book is great and emphasizes aggregates)
 
 The finished VISUALIZATION files for this lab have files in them, also,
 they are located at this URL: <http://tabsoft.co/2qmpTiE>
 
-**Estimated Timing: Lecture, Demos: 30-40 minutes. **
+**Estimated Timing: Lecture, Demos: 30-40 minutes.**
 
 **Exercises 45-60 minutes depending on audience.**
 
@@ -329,26 +328,26 @@ the students do the lab OR you can go through entire chapter and then
 Also, you could do some "with the students" and let them loose on
 others.
 
-**Glitch: On page 63, they have you "showing filter" for Region, City.
+**Glitch** -- On page 63, they have you "showing filter" for Region, City.
 They forgot to tell you to "show filter" for Order Date as well. Page 64
 depicts this. Order date doesn't really fall into the exercise, but to
-keep consistent with the book, they can add it.**
+keep consistent with the book, they can add it.
 
-**Glitch: On Page 72, step \#5, they have you place Running Sum of
-Profit (new calc) on Table. Place on top of PROFIT COLUMN**
+**Glitch** -- On Page 72, step \#5, they have you place Running Sum of
+Profit (new calc) on Table. Place on top of PROFIT COLUMN
 
-**Glitch: Page 81, Top of page, has students "drag out" County and State
-off the view. We do not have County and State... ignore this.**
+**Glitch:** -- Page 81, Top of page, has students "drag out" County and State
+off the view. We do not have County and State... ignore this.
 
-**Glitch: Page 82, Step \#5, Drag "Profit by Order ID" to Column to get
-view on page 83.**
+**Glitch** -- Page 82, Step \#5, Drag "Profit by Order ID" to Column to get
+view on page 83.
 
-**Chapter 5 -- More Calculations (Logical, Strings, Numbers and Dates)**
+**Chapter 5 -- More Calculations** (Logical, Strings, Numbers and Dates)
 
 The finished VISUALIZATION files for this lab have files in them, also,
 they are located at this URL: <http://tabsoft.co/2qmpTiE>
 
-**Estimated Timing: Lecture, Demos: 20-30 minutes. **
+**Estimated Timing: Lecture, Demos: 20-30 minutes.**
 
 **Exercises 30-45 minutes depending on audience.**
 
@@ -367,18 +366,18 @@ Formatting/Default Properties is discussed this chapter on page 90. You
 will need to point out how the students should format decimal places and
 how default properties can keep things consistent in Tableau.
 
-**Page 90-91 -- Put ALL the fields into the ROW and use "show me" to get
-the table pictured on page 91.**
+**Page 90-91** -- Put ALL the fields into the ROW and use "show me" to get
+the table pictured on page 91.
 
-**THEN: Drag "Region" to Row (to the right of Category), THEN Drag
-"Profit for Region" to the Row, Next to "Region" -- SEE THE NULLS.**
+**THEN:** Drag "Region" to Row (to the right of Category), THEN Drag
+"Profit for Region" to the Row, Next to "Region" -- SEE THE NULLS.
 
-**THEN: Follow the directions in the middle of Page 91 to Edit the
-"Profit for Region" to include ZN of nulls.**
+**THEN:** Follow the directions in the middle of Page 91 to Edit the
+"Profit for Region" to include ZN of nulls.
 
-**THEN: Remove "Profit for Region" and replace with Profit for
+**THEN:** Remove "Profit for Region" and replace with Profit for
 Region\_ZN. Click Show Me and Click first table. NULLS replaced with
-ZEROS**
+ZEROS
 
 **Page 92 should look familiar. We created this exact function in a
 previous Tableau Class.**
@@ -390,7 +389,7 @@ previous Tableau Class.**
 The finished VISUALIZATION files for this lab have files in them, also,
 they are located at this URL: <http://tabsoft.co/2qmH5Vh>
 
-**FILTERS: Estimated Timing: Lecture, Demos: 10 minutes. **
+**FILTERS: Estimated Timing: Lecture, Demos: 10 minutes.**
 
 **FILTERS: Exercises 15-20 minutes depending on audience.**
 
@@ -398,22 +397,22 @@ they are located at this URL: <http://tabsoft.co/2qmH5Vh>
 
 **The concept of FILTERS in this chapter is really good. They first show
 filters on the Data Source which will then be reflected on any sheets
-created after this. **
+created after this.**
 
 **\*\*Remind students that filters and legends appear under the "Show
 Me". They can toggle it by clicking or pressing CTRL + 1**
 
-**Glitch: Page 100. At the end, it says that your chart will look like
+**Glitch** -- Page 100. At the end, it says that your chart will look like
 the one on page 101. Students may have to choose the "bar" chart on Show
 Me (depending on how they got the fields into the view -- double click
-vs. drag, right drag, etc.)**
+vs. drag, right drag, etc.)
 
 **Parameters**
 
 There are NO files up on the URL for this portion:
 <http://tabsoft.co/2oZKhl6>
 
-**PARAMETERS: Estimated Timing: Lecture, Demos: 10 minutes. **
+**PARAMETERS: Estimated Timing: Lecture, Demos: 10 minutes.**
 
 **PARAMETERS: Exercises 15-20 minutes depending on audience.**
 
@@ -425,16 +424,16 @@ students! A great way for them to end Day 1
 
 ![](.//media/image8.png)
 
-**Day Two -- Chapters 7-13 **
+**Day Two -- Chapters 7-13**
 
-**Chapter 7 -- Sorting **
+**Chapter 7 -- Sorting**
 
 The finished VISUALIZATION files for this lab have files in them, also,
 they are located at this URL: <http://tabsoft.co/2p2Mtcl> (all the files
 are complete and can be used for demos if desired, instead of workbook
 solutions)
 
-**Estimated Timing: Lecture, Demos: 10-15 minutes. **
+**Estimated Timing: Lecture, Demos: 10-15 minutes.**
 
 **Exercises 10-15 minutes depending on audience.**
 
@@ -448,25 +447,25 @@ they are located at this URL: <http://tabsoft.co/2qxM7e2> (all the files
 are complete and can be used for demos if desired, instead of workbook
 solutions)
 
-**GROUPS **
+**GROUPS**
 
-**GROUPS: Estimated Timing: Lecture, Demos: 10 minutes. **
+**GROUPS: Estimated Timing: Lecture, Demos: 10 minutes.**
 
 **GROUPS: Exercises 10 minutes depending on audience.**
 
-**Glitch: Page 114 -- BEFORE Step \#4, have the students click on the
+**Glitch** -- Page 114 -- BEFORE Step \#4, have the students click on the
 BAR chart in Show Me AGAIN. Then they will see the separation of the
 group and the group move to rows as pointed out in book.**
 
 **SETS**
 
-**Estimated Timing: Lecture, Demos: 5 minutes. **
+**Estimated Timing: Lecture, Demos: 5 minutes.**
 
 **Exercises 10 minutes depending on audience.**
 
-**Glitch: Page 121 -- AFTER students create the SET at the top of page
+**Glitch** -- Page 121 -- AFTER students create the SET at the top of page
 121, have students go to the Show Me and change to bar chart, before
-continuing exercise.**
+continuing exercise.
 
 **Chapter 9 -- FORMATTING**
 
@@ -483,7 +482,7 @@ they are located at this URL: <http://tabsoft.co/2pzvYpe> (all the files
 are complete and can be used for demos if desired, instead of workbook
 solutions)
 
-**Estimated Timing: Lecture, Demos: 20 minutes - **
+**Estimated Timing: Lecture, Demos: 20 minutes**
 
 **Exercises 10 minutes depending on audience.**
 
@@ -501,7 +500,7 @@ are complete and can be used for demos if desired, instead of workbook
 solutions)
 
 **Custom Colors and Highlighting: Estimated Timing: Lecture, Demos: 5-10
-minutes - **
+minutes**
 
 **Custom Colors and Highlighting: Exercises 20-30 minutes depending on
 audience and depending whether students type the XML or not.**
@@ -538,15 +537,15 @@ they are located at this URL: <http://tabsoft.co/2p2SINj> (all the files
 are complete and can be used for demos if desired, instead of workbook
 solutions)
 
-**Estimated Timing: Lecture, Demos: 20 minutes **
+**Estimated Timing: Lecture, Demos: 20 minutes**
 
 **Exercises 20 minutes depending on audience.**
 
-**Glitch: TALK ONLY about pages 144-146. Unknown locations are getting
+**Glitch** -- TALK ONLY about pages 144-146. Unknown locations are getting
 to be a "thing of the past" when it comes to States. Our dataset is USA
 only. But, you can read through and show the students that IF they get
 some unknown locations, there is a wizard in Tableau that will try to
-fix these items.**
+fix these items.
 
 **Chapter 11 -- Visualizations (all types of charts -- FUN!)**
 
@@ -569,49 +568,49 @@ note that they can open the SOLUTION and copy and paste this calculation
 called "Sales Color" from the solution into their Workbook. -- you
 should demo this for the students if possible.**
 
-**Page 154 -- you can demo or you can do this with the students. The
+**Page 154** -- you can demo or you can do this with the students. The
 point is "dual axis". The directions are confusing. On page 155, Step
 \#7 should be the FIRST Latitude changed to circles, NOT the second. The
 second should be a filled map. THEN, create less confusion by having the
 students "Edit the colors" on the filled map by dragging the opaque
 button to the left. This will leave muted colors so that the top chart's
-"circles" will show up better. **
+"circles" will show up better.
 
-**Page 157 -- They have you pick a Quick Table Calculation, but the
+**Page 157** -- They have you pick a Quick Table Calculation, but the
 picture in the book isn't great. They should pick "Percent of Total" --
 Also, after the pie chart is done, change "standard view" to "entire
-view" to make pie chart bigger.**
+view" to make pie chart bigger.
 
-**Glitch: Donut Chart -- Page 158. Step \#2, After they drag "Number of
+**Glitch** -- Donut Chart -- Page 158. Step \#2, After they drag "Number of
 Records" onto the row, have them choose "Attribute" off the list. This
 size will be the best for this chart. Then after Step \#7, have the
-students change to "Entire View" up in toolbar combo box.**
+students change to "Entire View" up in toolbar combo box.
 
-**Pages 160 and 162 -- Bar Charts -- Might need for students to use
-"SWAP" button to get the bars Vertical, instead of horizontal.**
+**Pages 160 and 162 -- Bar Charts** -- Might need for students to use
+"SWAP" button to get the bars Vertical, instead of horizontal.
 
-**Glitch: Page 169 -- After Step \#3, they ask students to select
+**Glitch** -- Page 169 -- After Step \#3, they ask students to select
 options. Just have them click OK. They won't be familiar with any
-options until they see what the reference line will be.**
+options until they see what the reference line will be.
 
-**Chapter 12 -- Dashboards **
+**Chapter 12 -- Dashboards**
 
 The finished VISUALIZATION files for this lab have files in them, also,
 they are located at this URL: <http://tabsoft.co/2ppFixC> - (all the
 files are complete and can be used for demos if desired, instead of
 workbook solutions)
 
-**Estimated Timing: Lecture, Demos: 20-30 minutes -- You will need to
+**Estimated Timing: Lecture, Demos: 20-30 minutes** -- You will need to
 explain the difference between Dashboards and Stories. Also, if you have
 extra time, you can introduce the other types of "actions" in the
-dashboard, other than filter.**
+dashboard, other than filter.
 
-**Exercises 20-30 minutes depending on audience and your time frame. **
+**Exercises 20-30 minutes depending on audience and your time frame.**
 
-**Glitch: Page 180 -- Step \#2 -- the charts should read: Heat Maps,
+**Glitch** -- Page 180 -- Step \#2 -- the charts should read: Heat Maps,
 Bars, Tables. Also, the SEGMENT filter is part of the HEAT MAPS chart,
 not the Bar/Combo chart. Also, the pull down menu they refer to in Step
-\#3, is actually under the "Apply to Worksheets" menu.**
+\#3, is actually under the "Apply to Worksheets" menu.
 
 **Chapter 13 -- Server Deployment**
 
